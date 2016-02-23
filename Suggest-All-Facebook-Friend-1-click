@@ -1,0 +1,1 @@
+javascript:var%20x=document.getElementsByClassName("uiButtonText");for(var%20i=0;i<x.length;i++)%20{if%20(x[i].innerHTML%20==%20'Suggest%20Friend')%20{x[i].click();}};%20alert('Thanks To Irun');
